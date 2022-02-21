@@ -1,0 +1,44 @@
+body{
+    background-color: orange;
+}
+#top{
+    border: 5px outset white;
+    background-color: lightblue;    
+    text-align: center;
+    color: white;
+}
+#center1{
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    font-size: 15px;
+}
+#center2{
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+}
+#center3{
+    display: inline-block;
+    width: 30%;
+   
+}
+#bottom{
+
+    border: 5px outset white;
+    background-color: lightblue;    
+    text-align: center;
+    color: white;
+}
+option{
+    font-size: 20px;
+    color: red;
+}
+table, th, td{
+  border:1px solid black;
+  font-size: 20px;
+  color: red;
+}
+table{
+    background-color: white;
+}
